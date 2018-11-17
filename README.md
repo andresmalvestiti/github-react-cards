@@ -1,2 +1,2 @@
 # github-react-cards
-A simple page that renders cards with github user's information.
+A simple page that render cards with github user's information.
